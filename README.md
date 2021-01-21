@@ -12,4 +12,4 @@
 - 🌱 I’m currently learning French
 - 💬 Ask me about Blocky or HTML
 
-_**Note:** I do not own the Scratch Addons and SimpleEdit repo or organisation._
+[About](https://thecoder876.github.io/About "Visit the About page")
