@@ -10,6 +10,10 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876)
 
+<div class="col-12 col-md-4">
+			<div id="github-card" class="widget" data-sort-by="updateTime" data-header-text="Last updated repositories" data-max-repos="3" data-username="Hans5958"></div>
+  </div>
+
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 🌱 I’m currently learning French
 - 💬 Ask me about Blocky or HTML
