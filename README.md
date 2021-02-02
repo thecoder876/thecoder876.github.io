@@ -10,9 +10,9 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876)
 
-<div class="col-12 col-md-4">
-			<div id="github-card" class="widget" data-sort-by="updateTime" data-header-text="Last updated repositories" data-max-repos="3" data-username="Hans5958"></div>
-  </div>
+![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder876&theme=dark&count_private=true)
 
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
 - 🌱 I’m currently learning French
