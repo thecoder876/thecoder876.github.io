@@ -1,3 +1,5 @@
+[Home](https://thecoder876.github.io "Visit the About page") | [About](https://thecoder876.github.io/About "Visit the About page")
+
 # Home
 
 ### Hi there 👋
