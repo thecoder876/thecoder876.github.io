@@ -8,11 +8,11 @@
 [![Website](https://img.shields.io/badge/Website-thecoder876.github.io-blue)](https://thecoder876.github.io "Visit my website")
 [![Blog](https://img.shields.io/badge/Blog-thecoder876.blogspot.com-blue)](https://thecoder876.blogspot.com "Visit my blog")
 
+**Scroll down for more!**
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thecoder876&theme=darkhub)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&count_private=true&custom_title=Stats)
-
-**Scroll down for more!**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder876&theme=dark&count_private=true&custom_title=Top%20Languages)
 
