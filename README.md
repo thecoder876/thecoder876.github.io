@@ -1,4 +1,4 @@
-<center>[Home](https://thecoder876.github.io "Visit the Home page") | [About](https://thecoder876.github.io/about "Visit the About page")</center>
+<center><a href=/>Home</a> | <a href=/about>About</a></center>
 
 # Home
 
