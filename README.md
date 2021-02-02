@@ -1,4 +1,4 @@
-<center><a href=https://thecoder876.github.io tooltip=Visit%20the%20Home%20page>Home</a> | <a href=https://thecoder876.github.io/about tooltip=Visit%20the%20Home%20page>About</a></center>
+[Home](https://thecoder876.github.io "Visit the Home page") | [About](https://thecoder876.github.io/about "Visit the About page")
 
 # Home
 
