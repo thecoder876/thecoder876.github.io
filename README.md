@@ -1,4 +1,4 @@
-[Home](https://thecoder876.github.io "Visit the About page") | [About](https://thecoder876.github.io/About "Visit the About page")
+[Home](https://thecoder876.github.io "Visit the About page") | [About](https://thecoder876.github.io/about "Visit the About page")
 
 # Home
 
@@ -31,5 +31,3 @@
 <iframe src="https://discord.com/widget?id=790654326804316221&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [Super duper eye burning light mode version](https://discord.com/widget?id=790654326804316221&theme=light "Eyes, prepare to be burned")
-
-[About](https://thecoder876.github.io/About "Visit the About page")
