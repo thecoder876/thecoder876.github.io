@@ -12,6 +12,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thecoder876&theme=dark&count_private=true&custom_title=Stats)
 
+**Scroll down for more!**
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder876&theme=dark&count_private=true&custom_title=Top%20Languages)
 
 - 🔭 I’m currently working on Scratch projects and App Inventor apps
@@ -23,5 +25,9 @@
 <script src="https://gist.github.com/thecoder876/3f3cae15ebb242cd49672c60300e2467.js"></script>
 
 <script src="https://gist.github.com/thecoder876/b59b8500a0260ad8524663628e58f395.js"></script>
+
+<iframe src="https://discord.com/widget?id=790654326804316221&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+[Super duper eye burning light mode version](https://discord.com/widget?id=790654326804316221&theme=dark "Eyes, prepare to be burned")
 
 [About](https://thecoder876.github.io/About "Visit the About page")
