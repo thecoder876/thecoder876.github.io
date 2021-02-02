@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: thecoder876
+
+buttons:
+About:
+- /About 
