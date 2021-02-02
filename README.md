@@ -28,6 +28,6 @@
 
 <iframe src="https://discord.com/widget?id=790654326804316221&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-[Super duper eye burning light mode version](https://discord.com/widget?id=790654326804316221&theme=dark "Eyes, prepare to be burned")
+[Super duper eye burning light mode version](https://discord.com/widget?id=790654326804316221&theme=light "Eyes, prepare to be burned")
 
 [About](https://thecoder876.github.io/About "Visit the About page")
