@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 title: thecoder876
 
-buttons:
-About:
-- /About 
+navbar:
+  - title: Home
+    href: https://thecoder876.github.io/
+  - title: About
+    href: https://thecoder876.github.io/about
+  - title: Gists
+    href: https://thecoder876.github.io/gists
+  - title: Repls
+    href: https://thecoder876.github.io/repls
