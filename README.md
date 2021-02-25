@@ -1,4 +1,4 @@
-[Home](https://thecoder876.github.io "Visit the Home page") | [About](https://thecoder876.github.io/about "Visit the About page")
+[Home](https://thecoder876.github.io "Visit the Home page") | [About](https://thecoder876.github.io/about "Visit the About page") | [Gists](https://thecoder876.github.io/gists "Visit the Gists page") | [Repls](https://thecoder876.github.io/repls "Visit the Repls page")
 
 # Home
 
