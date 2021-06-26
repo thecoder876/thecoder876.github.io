@@ -1,3 +1,5 @@
 title: thecrewmate876
 theme: jekyll-theme-hacker
-project-page: false
+github:
+    project-page: false
+
