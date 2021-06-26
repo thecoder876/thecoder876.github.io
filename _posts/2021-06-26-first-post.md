@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First post!
 permalink: blog/first-post
 author: thecrewmate876
